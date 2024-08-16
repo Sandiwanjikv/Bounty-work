@@ -75,4 +75,3 @@ This section provides a comprehensive explanation of the DeFi script, highlighti
 - **Aave Interaction**: After the swap, the script approves and deposits the LINK tokens into Aave, allowing the user to earn interest.
 - **Error Handling**: Throughout the process, the script includes error handling mechanisms to manage exceptions and provide informative feedback to the user.
 
-This script effectively demonstrates the integration of different DeFi protocols, enabling seamless token swaps and yield generation through the use of Uniswap and Aave.
